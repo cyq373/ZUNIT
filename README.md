@@ -1,7 +1,5 @@
 # ZUNIT
 
-Pytorch implementation of our paper: ["Toward Zero-Shot Unsupervised Image-to-Image Translation"](https://arxiv.org/abs/2007.14050).
-
 <p align="center">
 <img src='images/framework.png'  align="center" width='90%'>
 </p>
@@ -44,16 +42,6 @@ bash ./scripts/test_bird.sh
 <img src='images/results2.png'  align="center" width='90%'>
 </p>
 
-### Citation
-If this work is useful for your research, please consider citing :
-```
-@article{chen2020toward,
-  title={Toward Zero-Shot Unsupervised Image-to-Image Translation},
-  author={Chen, Yuanqi and Yu, Xiaoming and Liu, Shan and Li, Ge},
-  journal={arXiv preprint arXiv:2007.14050},
-  year={2020}
-}
-```
 
 ### Acknowledgement
 The code used in this research is inspired by [DMIT](https://github.com/Xiaoming-Yu/DMIT) and [FUNIT](https://github.com/NVlabs/FUNIT).
